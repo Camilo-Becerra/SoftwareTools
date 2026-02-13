@@ -28,6 +28,7 @@ body {
 .nav-link:hover {
     background-color: rgba(44, 122, 123, 0.1);
     border-radius: 20px;
+    color: white !important;
 }
 
 /* Hero gradient background */
