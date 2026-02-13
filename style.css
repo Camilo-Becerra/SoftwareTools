@@ -22,6 +22,7 @@ body {
 /* Navbar blur effect (not available in Bootstrap) */
 .navbar {
     backdrop-filter: blur(10px);
+    color: white !important;
 }
 
 /* Nav link hover effect (not available in Bootstrap) */
