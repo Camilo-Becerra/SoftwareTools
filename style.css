@@ -20,9 +20,14 @@ body {
 .bg-primary-subtle { background-color: #E6FFFA !important; }
 
 /* Navbar blur effect (not available in Bootstrap) */
-.navbar {
-    backdrop-filter: blur(10px);
+.navbar-brand {
     color: white !important;
+    font-weight: 800;
+}
+
+.nav-link {
+    color: white !important;
+    font-weight: 500;
 }
 
 /* Nav link hover effect (not available in Bootstrap) */
